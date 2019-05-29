@@ -1,0 +1,56 @@
+/* 데스크탑 브라우저 가로 */
+@media only screen and (min-width : 900px) {
+  body {
+    margin : 0 auto;
+    display: block;
+    width : 900px;
+  }
+  audio {
+    margin-left : 250px;
+    margin-right : 250px;
+    width: 400px;
+  }
+}
+
+@media only screen and (max-width : 1000px) {
+body {
+    margin : 0 1em;
+    display: block;
+  }
+}
+
+h2,h3{
+  text-align: center;
+}
+
+
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 0.3em;
+    margin : 0 0.2em;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1em;
+  }
+.button2 {
+    opacity : 0;
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 0.3em;
+    margin : 0 0.2em;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1em;
+  }
+
+.add{
+border-top : 1px solid #4CAF50;
+text-align: center;
+padding : 1em 0 0 0;
+margin-top : 2em;
+margin-bottom : 2em;
+}
+

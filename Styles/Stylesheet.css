@@ -1,0 +1,193 @@
+
+ 
+ 
+body{
+font-size : 0.9em;
+hyphens: auto;
+}
+
+ 
+ 
+
+.txts {
+    font-size: 0.8em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.6em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: justify;
+    text-indent: 0;
+    }
+
+
+.txtex {
+    font-size: 1em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.6em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0em;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: left;
+    text-indent: 0em;
+    }
+
+.txt1 {
+    font-size: 1.2em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.6em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0em;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: left;
+    text-indent: 0em;
+    }
+
+.txt2 {
+    font-size: 1.4em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.6em;
+    margin-bottom: 0em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0em;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: left;
+    text-indent: 0em;
+    }
+
+ 
+
+/*살구색 바탕 - 정답 및 해설 check up test 제목 꾸밈*/
+
+ 
+
+.bg_purple{
+	background-color : #DFE5F3;
+	padding : 0.1em 0.5em;
+	border-radius : 1em;
+}
+
+/* 연한 보라색 바탕 - 정답 및 해설 실전문제 제목 꾸밈*/
+
+.bg_purple2{
+	background-color : #DFE5F3;
+	padding : 0.1em 0.3em;
+	color : #2C6AB3;
+}
+
+/* 연한 보라색 바탕 - 정답 및 해설 해설 제목 꾸밈*/
+
+.bg_gray{
+	background-color : #ddd;
+	padding : 0.1em 0.3em;
+	color : #4D484A;
+}
+
+/* 회색 바탕 - 정답 및 해설 해석 제목 꾸밈*/
+
+.bg_green{
+	background-color : #B7D9D0;
+	padding : 0.1em 0.3em;
+	color : #45A896;
+}
+
+/* 연한 녹색 바탕 - 정답 및 해설 어휘 제목 꾸밈*/
+
+
+.bg_blue_line{
+	border-bottom : 2px dotted #1C58A7;
+	padding : 0.1em 0.3em;
+}
+
+/*푸른색 밑줄 - 빈칸*/
+
+  
+
+.box_blue2{
+	background-color : #2C68B1;
+	padding : 0.1em 0.3em;
+	color : #ffffff;
+}
+
+/*파란색 바탕 - STEP 1 제목 배경색*/
+
+ 
+.tright{
+	text-align: right;
+}
+ 
+.s21_21{
+	margin-left : 2.1em;
+	text-indent : -2.1em;
+}
+
+.ind22{
+    margin-left: 2.2em;
+}
+
+
+.blue{
+	color : #1C58A7;
+}
+
+.red{
+	color : #D33D26;
+}
+
+.yellow{
+	color : #FCF051;
+}
+
+
+.blue2{
+	color : #3278BE;
+}
+
+.opa{
+	opacity : 0;
+}
+
+
+.opa1{
+	opacity : 1;
+	color : #D33642;
+	font-family: "kopub_dot_b", Sans-Serif;
+	font-weight: bold;
+}
+
+
+  
+.dl{
+font-family: Sans-Serif;
+}
+
+.dm{
+font-family: Sans-Serif;
+font-weight: bold;
+}
+
+
+
